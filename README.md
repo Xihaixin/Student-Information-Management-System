@@ -1,8 +1,6 @@
 # Student-Information-Management-System
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xrandx.Student-Information-Management-System)
-
-Student-information-management-system school project   学生信息管理系统（课程设计）
-
-大一时候写的了，你们 fork 之前好歹点个 star 啊。
-
-好家伙，那么多浏览量，点个⭐吧！
+## 关于fork的使用
+通过fork操作实现项目复制与转移，将开源项目搬运至自己的仓库里面。这个操作确保我们能够完成对代码的二次开发，同时
+保证我们所做的修改不会影响原作者固有的项目结构。fork可以理解为“分支”，这是相对于master（主干）来说的，因为主干
+代表着项目既有归属地址，而经过fork以后，生成分支地址，依靠这一层关系，我们能够将分支合并到主干上面，同时也可以
+向原项目提交我们的修改。
